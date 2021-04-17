@@ -21,6 +21,7 @@ Formando pelo Centro Universitário do Vale do Ipojuca, instituição de ensino 
 Veja os meus projetos desenvolvidos:
 
 * **Álgebra linear com python:** https://bit.ly/308A4rl
+* **Estatística básica:** https://bit.ly/3uWmHYH
 
 Outros:
 
