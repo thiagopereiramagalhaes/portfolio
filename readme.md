@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" height="450" width="960">
+  <img src="banner.png" height="480" width="960">
 </p>
 
 # Thiago Magalhães
