@@ -20,13 +20,14 @@ Formando pelo Centro Universitário do Vale do Ipojuca, instituição de ensino 
 ## Projetos:
 Veja os meus projetos desenvolvidos:
 
-* **Álgebra linear com python:** https://bit.ly/308A4rl
-* **Estatística básica:** https://bit.ly/3uWmHYH
-* **Probabilidade básica:** https://bit.ly/3dr2Afk
+* **Recriando a home do Google:** http://bit.ly/2NT5Bvc
+* **Recriando a home do Pinterest:** http://bit.ly/3bgxwy1
+
 
 Outros:
 
-* **Recriando a home do Google:** http://bit.ly/2NT5Bvc
-* **Recriando a home do Pinterest:** http://bit.ly/3bgxwy1
+* **Álgebra linear com python:** https://bit.ly/308A4rl
+* **Estatística básica:** https://bit.ly/3uWmHYH
+* **Probabilidade básica:** https://bit.ly/3dr2Afk
 
 ---
