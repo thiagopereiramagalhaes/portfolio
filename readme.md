@@ -20,15 +20,16 @@ Formando pelo Centro Universitário do Vale do Ipojuca, instituição de ensino 
 ## Projetos:
 Veja os meus projetos desenvolvidos:
 
-* **Recriando a home do Google:** http://bit.ly/2NT5Bvc
-* **Recriando a home do Pinterest:** http://bit.ly/3bgxwy1
-
-
-Outros:
+Guias e anotações:
 
 * **Guia rápido de python:** https://bit.ly/3jWcxDu
 * **Álgebra linear com python:** https://bit.ly/308A4rl
 * **Estatística básica:** https://bit.ly/3uWmHYH
 * **Probabilidade básica:** https://bit.ly/3dr2Afk
+
+HTML, CSS e JavaScript:
+
+* **Recriando a home do Google:** http://bit.ly/2NT5Bvc
+* **Recriando a home do Pinterest:** http://bit.ly/3bgxwy1
 
 ---
