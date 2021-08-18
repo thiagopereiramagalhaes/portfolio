@@ -26,6 +26,7 @@ Veja os meus projetos desenvolvidos:
 
 Outros:
 
+* **Guia rápido de python:** https://bit.ly/3jWcxDu
 * **Álgebra linear com python:** https://bit.ly/308A4rl
 * **Estatística básica:** https://bit.ly/3uWmHYH
 * **Probabilidade básica:** https://bit.ly/3dr2Afk
