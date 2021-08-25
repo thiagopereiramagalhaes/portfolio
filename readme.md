@@ -14,7 +14,7 @@ Formando pelo Centro Universitário do Vale do Ipojuca, instituição de ensino 
 **Experiência em:** Python, JavaScript, Data Science, Back-end e Front-end.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/thiagopmagalhaes/)
+* [LinkedIn](https://www.linkedin.com/in/thiagopmagalhaes/(
 * [GitHub](https://github.com/thiagopereiramagalhaes)
 
 ## Projetos:
