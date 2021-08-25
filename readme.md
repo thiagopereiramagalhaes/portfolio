@@ -22,15 +22,15 @@ Veja os meus projetos desenvolvidos:
 
 Guias e anotações:
 
-* **Base de dados com SQL:** https://bit.ly/387UvZL
-* **Guia rápido de python:** https://bit.ly/3kmRv1d
-* **Álgebra linear com python:** https://bit.ly/308A4rl
-* **Estatística básica:** https://bit.ly/3uWmHYH
-* **Probabilidade básica:** https://bit.ly/3dr2Afk
+* **Base de dados com SQL:** <a href=https://bit.ly/387UvZL" target="_blank">Abrir projeto</a>
+* **Guia rápido de python:** <a href=https://bit.ly/3kmRv1d" target="_blank">Abrir projeto</a>
+* **Álgebra linear com python:** <a href=https://bit.ly/308A4rl" target="_blank">Abrir projeto</a>
+* **Estatística básica:** <a https://bit.ly/3uWmHYH" target="_blank">Abrir projeto</a>
+* **Probabilidade básica:** <a https://bit.ly/3dr2Afk" target="_blank">Abrir projeto</a>
 
 HTML, CSS e JavaScript:
 
-* **Recriando a home do Google:** http://bit.ly/2NT5Bvc
-* **Recriando a home do Pinterest:** http://bit.ly/3bgxwy1
+* **Recriando a home do Google:** <a href=http://bit.ly/2NT5Bvc" target="_blank">Abrir projeto</a>
+* **Recriando a home do Pinterest:** <a href=http://bit.ly/3bgxwy1" target="_blank">Abrir projeto</a>
 
 ---
