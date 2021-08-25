@@ -22,7 +22,7 @@ Veja os meus projetos desenvolvidos:
 
 Guias e anotações:
 
-* **Base de dados com SQL:** <a href=https://bit.ly/387UvZL" target="_blank">Abrir projeto</a>
+* **Base de dados com SQL:** <a href=https://bit.ly/387UvZL" target="_blank">
 * **Guia rápido de python:** <a href=https://bit.ly/3kmRv1d" target="_blank">Abrir projeto</a>
 * **Álgebra linear com python:** <a href=https://bit.ly/308A4rl" target="_blank">Abrir projeto</a>
 * **Estatística básica:** <a https://bit.ly/3uWmHYH" target="_blank">Abrir projeto</a>
