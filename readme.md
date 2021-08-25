@@ -25,7 +25,7 @@ HTML, CSS e JavaScript:
 * **Recriando a home do Google:** http://bit.ly/2NT5Bvc
 * **Recriando a home do Pinterest:** http://bit.ly/3bgxwy1
 
-Guias e anotações:
+Guias, anotações e rascunhos:
 
 * **Base de dados com SQL:** https://bit.ly/387UvZL
 * **Guia rápido de python:** https://bit.ly/3kmRv1d
